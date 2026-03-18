@@ -1,4 +1,5 @@
-    (function() {
+<script>
+(function() {
       // Fungsi untuk membuat username acak dengan sensor karakter
       const generateRandomUsername = () => {
         const usernames = [
@@ -194,3 +195,4 @@
         });
       });
     })();
+</script>
